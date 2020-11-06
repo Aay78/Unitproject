@@ -11,6 +11,7 @@ body{
     font-family: Myfirstfont;
     
 }
+
 p{
     color: rgb(184, 23, 49);
 }
@@ -38,9 +39,14 @@ ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
+  }
+  h3{
+    text-align: left;
+  }
+  h4{
+    text-align: left;
   }
   
   
